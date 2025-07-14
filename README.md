@@ -97,25 +97,25 @@ An essential aspect of Joomla’s sustainability is its global community, which 
   While not native, Joomla can be customized or extended to reduce data 	transfer over mobile networks and optimize for low-bandwidth environments.( Cache, lazy-Loading, Minify CSS / Script / CDN / Gzip)
 
 
-**Which UN sustainability goal does Joomla\!**
+## **Which UN sustainability goal does Joomla\!**
 
-**SDG 4 – Quality Education**
+### **SDG 4 – Quality Education**
 
 Documentation & Guided Tours: Joomla offers extensive tutorials and documentation, user guides, and interactive backend walkthroughs that support digital skill-building (Target 4.4).
 
 Global Knowledge Sharing: Joomla User Groups, Joomladays, and the Joomla Magazine promote inclusive and lifelong learning.
 
-**SDG 5 – Gender Equality**
+###  **SDG 5 – Gender Equality**
 
 Accessible and Inclusive Tools: Joomla's  empowers women and underrepresented groups to participate in the digital space (Target 5.b).
 
-**SDG 9 – Industry, Innovation, and Infrastructure**
+###  **SDG 9 – Industry, Innovation, and Infrastructure**
 
 Open Technology & GPL Licensing: As a fully free and open-source CMS and framework, Joomla fosters innovation and access to modern technology globally (Targets 9.5 & 9.c).
 
 Community-Driven Development: Knowledge sharing and collaborative infrastructure development are built into Joomla's ecosystem.
 
-**SDG 10 – Reduced Inequalities**
+###  **SDG 10 – Reduced Inequalities**
 
 Free, Inclusive & Multilingual Access: Joomla lowers entry barriers for NGOs, educational institutions, and users in the Global South, contributing to digital equality.
 
@@ -125,13 +125,13 @@ The Joomla\!  backend is designed to be accessible by default, so that everybody
 
 By enabling sustainable digital infrastructure through efficient, lightweight website design and encouraging remote collaboration via global community tools, Joomla indirectly supports climate action by reducing resource
 
-**SDG 16 – Peace, Justice, and Strong Institutions**
+###  **SDG 16 – Peace, Justice, and Strong Institutions**
 
 Transparent and Accountable Governance: Joomla's open development model promotes transparency, participation, and digital empowerment through community-led structures.
 
-**SDG 17 – Partnerships for the Goals**
+### **SDG 17 – Partnerships for the Goals**
 
 Global Collaboration: Joomla fosters global partnerships through international user groups, events, forums, and shared best practices – aligned with the SDG spirit of cooperation.
 
-V1 / 28/ 06/20025 Angie
+
 
