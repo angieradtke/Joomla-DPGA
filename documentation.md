@@ -34,11 +34,11 @@ Another helpful resource is the **Guided Tours** available in the Joomla\! backe
 
 In forms **inline descriptions** are used to explain the use of a field. The labels and descriptions of the form fields are part of every Joomla CMS language package. Joomla 5.x comes with 64 accredited language packs that can be installed directly from the backend.
 
-### Helping each other on the Forum and on Mattermost
+## Helping each other on the Forum and on Mattermost
 
 Any problem that cannot be solved with the documentation, can be searched for or asked on the Joomla [forum](https://forum.joomla.org). It is publicly accessible. Help is also available on Joomla’s internal communications channel on [Mattermost](https://docs.joomla.org/Mattermost).
 
-### **magazine.joomla.org – A Place for Sustainable Learning That’s Fun**
+## **magazine.joomla.org – A Place for Sustainable Learning That’s Fun**
 
 magazine.joomla.org is the official online magazine of the Joomla community. It serves as a central platform to publish news, tutorials, success stories, interviews, event announcements, and other relevant information related to the Joomla project and its community.
 
