@@ -1,4 +1,4 @@
-# Joomla ! Sustainability and UN 2030 Agenda
+# Joomla! Sustainability and UN 2030 Agenda
 
 
 
