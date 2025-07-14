@@ -2,13 +2,13 @@
 
 
 
-Joomla! is a powerful, free,accessible  and open-source Content Management System (CMS) and application framework, developed by a global community of volunteers to build professional websites and web applications.
+Joomla! is a powerful, free,accessible  and open-source Content Management System (CMS) and application framework, developed by a global community of volunteers to build professional websites and web applications. Joomla enables individuals, NGOs, educational institutions, governments, and small businesses worldwide to build professional, accessible, and secure websites and web applications—without licensing costs or proprietary lock-ins.
 
  It is modular, multilingual, accessible, and secure—making it a sustainable digital tool that can be used by individuals, NGOs, educational institutions, and governments worldwide. Joomla encourages knowledge sharing, promotes inclusion, and supports responsible digital infrastructure development.
 
-Thanks to its community-driven governance, open licensing (GPL), and strong focus on privacy, accessibility, and energy efficiency, Joomla actively contributes to creating fairer access to digital technology and lifelong learning.
+Thanks to its community-driven governance, open licensing (GPL), and strong focus on privacy, accessibility, Joomla actively contributes to creating fairer access to digital technology and lifelong learning. 
 
-These values directly support several United Nations Sustainable Development Goals (SDGs), including:
+As an open, inclusive, and sustainable digital platform, Joomla directly supports multiple United Nations Sustainable Development Goals (SDGs). 
 
 * **SDG 4**:  
    Quality Education – through open learning resources, interactive guides, and global knowledge exchange  
