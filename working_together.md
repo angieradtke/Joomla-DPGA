@@ -1,4 +1,4 @@
-# **Working together **
+# The Joomla! Community - Working together 
 
 The Joomla community is made up of many volunteers and dedicated contributors who work on the project with a lot of passion. Sometimes discussions can become heated or emotional because different opinions and strong beliefs come into play. To ensure that everyone interacts respectfully and no one feels threatened by harassment or inappropriate behavior, clear rules and mechanisms are in place to protect community members.
 
