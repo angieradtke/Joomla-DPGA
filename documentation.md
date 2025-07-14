@@ -37,3 +37,24 @@ In forms **inline descriptions** are used to explain the use of a field. The lab
 ## Helping each other on the Forum and on Mattermost
 
 Any problem that cannot be solved with the documentation, can be searched for or asked on the Joomla [forum](https://forum.joomla.org). It is publicly accessible. Help is also available on Joomla’s internal communications channel on [Mattermost](https://docs.joomla.org/Mattermost).
+
+**magazine.joomla.org – A Place for Sustainable Learning That’s Fun**
+
+magazine.joomla.org is the official online magazine of the Joomla community. It serves as a central platform to publish news, tutorials, success stories, interviews, event announcements, and other relevant information related to the Joomla project and its community.
+
+The magazine is aimed at Joomla users, developers, designers, and community members worldwide, providing regular articles on topics such as:
+
+* Updates and new features of Joomla
+
+* Tips and best practices for using and developing with Joomla
+
+* Reports from Joomla events and conferences
+
+* Interviews with key figures in the Joomla community
+
+* Community initiatives and contributions from volunteers
+
+Beyond just a news source, Joomla Magazine is a vibrant space where sustainable education meets enjoyment. It offers engaging, accessible content designed to help users and developers deepen their Joomla skills in a way that’s both effective and fun. By combining practical tutorials, inspiring stories, and community insights, Joomla Magazine makes learning sustainable, meaningful, and enjoyable for everyone involved.
+
+The goal of magazine.joomla.org is to inform, inspire, and foster communication within the community. It is an important resource for anyone involved with Joomla or active in the community.
+
