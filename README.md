@@ -1,4 +1,4 @@
-## **Sustainability  and in Joomla**
+# **Sustainability  and in Joomla**
 
 Joomla is a free, modular, and widely used open-source ( GPL) Content Management System (CMS) and Application Framework. Due to its architecture, active community, and extendability, Joomla is well-suited for implementing sustainable software principles. This overview presents key sustainability criteria in the context of Joomla, aligning with ecological, social, and technical goals.
 
