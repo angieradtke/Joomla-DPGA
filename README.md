@@ -47,8 +47,7 @@ An essential aspect of Joomla’s sustainability is its global community, which 
    	  
 * **Minimized Data Transmission**  
   Features like image compression, lazy loading, CSS/JS minification and bundling are supported to reduce network load.
-
-  * **Dark Mode in the Backend – Small Feature, Noticeable Impact**   Joomla offers a dark mode in the backend that not only reduces eye strain but can also contribute to energy savings – especially on devices with OLED or AMOLED displays.
+* **Dark Mode in the Backend – Small Feature, Noticeable Impact**   Joomla offers a dark mode in the backend that not only reduces eye strain but can also contribute to energy savings – especially on devices with OLED or AMOLED displays.
 
   
 
