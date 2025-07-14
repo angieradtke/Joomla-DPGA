@@ -1,4 +1,4 @@
-# Collection of Personal Data in the Joomla Community
+# Collection of Personal Data in the Joomla! Community
 
 The Joomla community collects personal data at various points — especially wherever users interact with the platform or participate in the project. On official Joomla websites such as joomla.org, extensions.joomla.org, volunteers.joomla.org, and forum.joomla.org, users are asked to provide personal information when registering an account. This includes name, email address, username, profile image, and possibly IP address. These details enable participation in forums, submission of extensions, team membership, and other community functions.
 
