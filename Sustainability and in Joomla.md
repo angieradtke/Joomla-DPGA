@@ -26,7 +26,7 @@ An essential aspect of Joomla’s sustainability is its global community, which 
 * **Reliable Software: More than 20 Years of Continuous Development**  
   Joomla was first released in 2005 (forked from the Mambo CMS), and it has seen a steady stream of improvements and major releases since then.  Part of Joomla’s longevity is due to its ability to adapt. Over the years, Joomla’s core code has been rewritten or refactored to embrace new technology trends (from PHP 4 to onwards, from procedural to modern PHP with namespaces). 
 
-* **Longterm-Versionsupport:**  
+* **Longterm-Version Support:**  
   Joomla’s maintenance policy supports each major release for a defined period, and clearly communicates End-of-Life (EOL) dates
 
 * **Joomla  Framework**  
