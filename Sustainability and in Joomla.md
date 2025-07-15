@@ -98,7 +98,7 @@ An essential aspect of Joomla’s sustainability is its global community, which 
   While not native, Joomla can be customized or extended to reduce data 	transfer over mobile networks and optimize for low-bandwidth environments.( Cache, lazy-Loading, Minify CSS / Script / CDN / Gzip)
 
 
-## **Which UN sustainability goal does Joomla\!**
+## **Which UN sustainability goal does Joomla! aligns with**
 
 ### **SDG 4 – Quality Education**
 
