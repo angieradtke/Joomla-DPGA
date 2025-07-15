@@ -2,7 +2,7 @@
 
 
 
-Joomla! is a powerful, free,accessible  and open-source Content Management System (CMS) and application framework, developed by a global community of volunteers to build professional websites and web applications. Joomla enables individuals, NGOs, educational institutions, governments, and small businesses worldwide to build professional, accessible, and secure websites and web applications—without licensing costs or proprietary lock-ins.
+Joomla! is a powerful, free, accessible  and open-source Content Management System (CMS) and application framework, developed by a global community of volunteers to build professional websites and web applications. Joomla enables individuals, NGOs, educational institutions, governments, and small businesses worldwide to build professional, accessible, and secure websites and web applications—without licensing costs or proprietary lock-ins.
 
  It is modular, multilingual, accessible, and secure—making it a sustainable digital tool that can be used by individuals, NGOs, educational institutions, and governments worldwide. Joomla encourages knowledge sharing, promotes inclusion, and supports responsible digital infrastructure development.
 
